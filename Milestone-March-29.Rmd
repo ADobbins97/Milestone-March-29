@@ -1,0 +1,29 @@
+---
+title: "Milestone #2"
+author: "Alexandra Dobbins"
+date: "3/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Analysis of Fall 2018 Student Projects**
+
+Pros & Cons
+
+
+**Project Title:** Population and its Affect on Single-Family Home Prices in LA and Connecticut
+
+- This project compared populations in different zipcodes/towns to the average household size, price per house, and number of empty houses, to name a few. I think the insights in this project were really interesting; about how houses cost less as the popualtion increases, how older people live in houses with fewer people, and how CT has more empty homes where the population is large. The student identified some really interesting causes/analysis of these. In addition, all the graphs were clean and worked well. 
+- I think this project could be improved mostly in the presentation of the population graphs. The demonstrate the array of population sizes for LA and CT zipcodes, but doesn't convey any inforamtion about location or any other context. I feel like this data could have been displayed differently, for example in a chart (or histogram) that divides populations into several ranges then tells the number of zipcodes falling into each range. I think this would help me learn from the chart more than its current format. Also, the coloring on the scatter plots which represent age is hard to differentiate and perhaps having age ranges with distinct categories would be more effective. 
+(This project gathered data from 3 sources!)
+
+
+**Project Title:** Off the Wall: Artwork Activity at the Harvard Art Museum
+
+- First, wow love this. So interesting. Also, I like how each tab/graph is desccribed in great detail (especially compared to the previously evaluated project). The color scheme/opacity of the graph makes it easy to look at and comprehend, and the chart in the "Gallery Data" tab is comprehensive, extensive, and easy to use. Also, the student acknowledges possible faults in the hypothesis which is good scientific practice. 
+- My only real complaint is that the "Online Page Visits" graphs is really cramped and hard to discern anything from. Maybe a logx function would help that? Also (minor complaint) that the drop-down menu to Choose Values to Plot is on every tab when it only applies to the first page -- I was waiting for the "Gallery Data" tab to change until I realized both options were represented in different columns. 
+
+Source: DavidKane.info
